@@ -46,3 +46,4 @@ An interactive quiz application built using **JavaScript**, allowing users to at
 ---
 
 💡 *"Keep learning, keep coding, and build amazing things!"* 🚀
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=your-username&repo=repo-name)](https://github.com/your-username/repo-name)
