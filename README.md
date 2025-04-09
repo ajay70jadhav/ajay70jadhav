@@ -1,29 +1,48 @@
-# [Your Name]
+# Hi there, I'm Ajay Gulab Jadhav 👋
 
-Frontend Developer | Skilled in HTML, CSS, JavaScript, Bootstrap, React.js
+🚀 **Aspiring Full Stack Developer** | 🎯 Passionate about **JavaScript, React, and Web Development**  
+💡 Currently learning **ReactJS, JavaScript, and DSA**  
+💼 Seeking **Internship or Job Opportunities in Full Stack Development**  
+📫 Reach me at **jajay1742@gmail.com**  
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-Website-blue)](https://your-portfolio-site.vercel.app/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/yourprofile)
-[![Instagram](https://img.shields.io/badge/Instagram-Handle-blue)](https://www.instagram.com/yourhandle)
+---
 
-## About Me
+## 🔥 Skills & Technologies
 
-I'm a frontend developer passionate about crafting beautiful and functional user interfaces. As a fresher in the field, I'm enthusiastic about learning new technologies and expanding my skill set.
+- **Frontend:** HTML, CSS, JavaScript, ReactJS
+- **Backend:** Node.js, Express.js, MongoDB
+- **Databases:** SQL, MySQL, MongoDB
+- **Other:** Git, GitHub, Tailwind CSS, Bootstrap, REST APIs
+- **Programming Languages:** JavaScript, Java, SQL
 
-## Tech Stacks
+---
 
-![HTML5](https://img.shields.io/badge/HTML5-%23E34F26.svg?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=flat-square&logo=javascript&logoColor=black)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-%23563D7C.svg?style=flat-square&logo=bootstrap&logoColor=white)
-![React](https://img.shields.io/badge/React-%2320232A.svg?style=flat-square&logo=react&logoColor=%2361DAFB)
+## 📌 Featured Projects
 
-## GitHub Stats
+### 🚀 [Portfolio](https://github.com/ajay70jadhav/Portfolio)
+A personal portfolio website showcasing my projects, skills, and experience. Designed with **HTML, CSS, JavaScript**, and optimized for responsiveness.
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=yourusername&theme=dark)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=dark)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=yourusername&layout=compact&theme=dark)
+### 🎯 [Quiz Application](https://github.com/ajay70jadhav/Quiz-Application)
+An interactive quiz application built using **JavaScript**, allowing users to attempt quizzes, track scores, and improve their knowledge.
 
-## Pinned Repositories
+### 🌟 [E-Commerce Website](#)
+(Planned Project) An intermediate-level **e-commerce website** featuring user authentication, product listing, and cart functionality. Built with **React, Node.js, and MongoDB**.
 
-[![Repo Name](https://github-readme-stats.vercel.app/api/pin/?username=yourusername&repo=repo-name&theme=dark)](https://github.com/yourusername/repo-name)
+---
+
+## 📊 GitHub Stats
+
+![Ajay's GitHub stats](https://github-readme-stats.vercel.app/api?username=ajay70jadhav&show_icons=true&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ajay70jadhav&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ajay70jadhav&layout=compact&theme=radical)
+
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ajay-jadhav-6652a3228/)  
+[![GitHub](https://img.shields.io/badge/-GitHub-black?style=for-the-badge&logo=github)](https://github.com/ajay70jadhav)  
+
+---
+
+💡 *"Keep learning, keep coding, and build amazing things!"* 🚀
